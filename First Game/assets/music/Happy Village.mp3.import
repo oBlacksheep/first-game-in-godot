@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cnrqu7fmfg5yf"
+path="res://.godot/imported/Happy Village.mp3-119f91fc60dfe65b3bf7548551abd346.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Happy Village.mp3"
+dest_files=["res://.godot/imported/Happy Village.mp3-119f91fc60dfe65b3bf7548551abd346.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
